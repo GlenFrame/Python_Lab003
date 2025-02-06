@@ -1,6 +1,7 @@
 import lab_chat as lc
 from lab_chat import get_peer_node, join_group, chat_task
 
+# This code actually did work I just second guessed myself oops
 
 def get_username():
     base_username = input("Enter desired username: ")
